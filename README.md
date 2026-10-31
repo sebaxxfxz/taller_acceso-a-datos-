@@ -25,14 +25,6 @@ main.py no tiene SQL, todo pasa por el DAO.
 
 El programa no deja meter nombres vacíos, precios de cero o negativos, cantidades negativas, ventas de cero o más unidades de las que hay, y avisa cuando el ID no existe. Si alguien escribe una letra donde va un número, vuelve a pedir el dato y no se cierra.
 
-## Cómo ejecutarlo
-
-Se necesita Python 3, nada más. sqlite3 ya viene con Python.
-
-```bash
-python3 main.py
-```
-
 ## Pruebas
 
 Probé estos casos:
