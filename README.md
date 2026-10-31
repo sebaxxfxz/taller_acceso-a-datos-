@@ -1,4 +1,4 @@
-# Inventario de videojuegos
+# Inventario de videojuegos taller
 
 Este proyecto es una aplicación de consola en Python para llevar el inventario de una tienda de videojuegos. Los datos se guardan en SQLite, así que no se pierden cuando se cierra el programa.
 
